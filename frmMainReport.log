@@ -1,0 +1,30 @@
+Line 2: Could not create reference: '{3C62B3DD-12BE-4941-A787-EA25415DCD27}#10.0#0'.
+Line 32: Class CrystalActiveXReportViewerLib10Ctl.CrystalActiveXReportViewer of control CRVIEW was not a loaded control class.
+Line 38: The property name lastProp in CRVIEWER is invalid.
+Line 39: The property name _cx in CRVIEWER is invalid.
+Line 40: The property name _cy in CRVIEWER is invalid.
+Line 41: The property name DisplayGroupTree in CRVIEWER is invalid.
+Line 42: The property name DisplayToolbar in CRVIEWER is invalid.
+Line 43: The property name EnableGroupTree in CRVIEWER is invalid.
+Line 44: The property name EnableNavigationControls in CRVIEWER is invalid.
+Line 45: The property name EnableStopButton in CRVIEWER is invalid.
+Line 46: The property name EnablePrintButton in CRVIEWER is invalid.
+Line 47: The property name EnableZoomControl in CRVIEWER is invalid.
+Line 48: The property name EnableCloseButton in CRVIEWER is invalid.
+Line 49: The property name EnableProgressControl in CRVIEWER is invalid.
+Line 50: The property name EnableSearchControl in CRVIEWER is invalid.
+Line 51: The property name EnableRefreshButton in CRVIEWER is invalid.
+Line 52: The property name EnableDrillDown in CRVIEWER is invalid.
+Line 53: The property name EnableAnimationControl in CRVIEWER is invalid.
+Line 54: The property name EnableSelectExpertButton in CRVIEWER is invalid.
+Line 55: The property name EnableToolbar in CRVIEWER is invalid.
+Line 56: The property name DisplayBorder in CRVIEWER is invalid.
+Line 57: The property name DisplayTabs in CRVIEWER is invalid.
+Line 58: The property name DisplayBackgroundEdge in CRVIEWER is invalid.
+Line 59: The property name SelectionFormula in CRVIEWER is invalid.
+Line 60: The property name EnablePopupMenu in CRVIEWER is invalid.
+Line 61: The property name EnableExportButton in CRVIEWER is invalid.
+Line 62: The property name EnableSearchExpertButton in CRVIEWER is invalid.
+Line 63: The property name EnableHelpButton in CRVIEWER is invalid.
+Line 64: The property name LaunchHTTPHyperlinksInNewBrowser in CRVIEWER is invalid.
+Line 65: The property name EnableLogonPrompts in CRVIEWER is invalid.
