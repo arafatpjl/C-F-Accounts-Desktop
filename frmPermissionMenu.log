@@ -1,0 +1,17 @@
+Line 12: Property Icon in frmPermissionMenu had an invalid file reference.
+Line 31: Property TabPicture(0) in SSTab1 had an invalid file reference.
+Line 41: Property TabPicture(1) in SSTab1 had an invalid file reference.
+Line 50: Property TabPicture(2) in SSTab1 had an invalid file reference.
+Line 57: Property DisabledPicture in cmdSaveMSS had an invalid file reference.
+Line 69: Property Picture in cmdSaveMSS had an invalid file reference.
+Line 77: Property DisabledPicture in cmdSaveMS had an invalid file reference.
+Line 89: Property Picture in cmdSaveMS had an invalid file reference.
+Line 106: Property ItemData in lstUserMS had an invalid file reference.
+Line 108: Property List in lstUserMS had an invalid file reference.
+Line 117: Property DisabledPicture in cmdSaveMM had an invalid file reference.
+Line 129: Property Picture in cmdSaveMM had an invalid file reference.
+Line 145: Property ItemData in lstUserMM had an invalid file reference.
+Line 147: Property List in lstUserMM had an invalid file reference.
+Line 251: Property DisabledPicture in cmdClose had an invalid file reference.
+Line 263: Property Picture in cmdClose had an invalid file reference.
+Line 320: Property Caption in Label4 must be a quoted string
