@@ -1,0 +1,21 @@
+Line 86: Class MSFlexGridLib.MSFlexGrid of control flexDetails was not a loaded control class.
+Line 92: The property name _ExtentX in flexDetails is invalid.
+Line 93: The property name _ExtentY in flexDetails is invalid.
+Line 94: The property name _Version in flexDetails is invalid.
+Line 95: The property name Rows in flexDetails is invalid.
+Line 96: The property name Cols in flexDetails is invalid.
+Line 97: The property name FixedRows in flexDetails is invalid.
+Line 98: The property name FixedCols in flexDetails is invalid.
+Line 99: The property name RowHeightMin in flexDetails is invalid.
+Line 102: The property name BackColorFixed in flexDetails is invalid.
+Line 103: The property name ForeColorFixed in flexDetails is invalid.
+Line 104: The property name BackColorSel in flexDetails is invalid.
+Line 105: The property name ForeColorSel in flexDetails is invalid.
+Line 106: The property name BackColorBkg in flexDetails is invalid.
+Line 107: The property name GridColor in flexDetails is invalid.
+Line 108: The property name GridColorFixed in flexDetails is invalid.
+Line 109: The property name Redraw in flexDetails is invalid.
+Line 110: The property name AllowBigSelection in flexDetails is invalid.
+Line 111: The property name ScrollTrack in flexDetails is invalid.
+Line 112: The property name FocusRect in flexDetails is invalid.
+Line 113: The property name ScrollBars in flexDetails is invalid.
